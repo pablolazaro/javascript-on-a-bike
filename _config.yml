@@ -21,7 +21,7 @@ permalink_defaults:
 SEOTitle: JavaScript on a Bike - Pablo Lázaro
 header-img: img/plasma.png
 email: pablolp90@gmail.com
-description: ""
+description: "JavaScript on a Bike es un blog que contiene artículos sobre el desarrollo de software Front End, JavaScript y frameworks como AngularJS."
 keyword: ""
 
 
@@ -34,9 +34,11 @@ linkedin_username:  pablolazaropalencia
 # Build settings
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
+marked:
+  gfm: false
 
 # Disqus settings
-#disqus_username: hexo-theme-huxblog
+disqus_username: javascript-on-a-bike
 
 # Duoshuo settings
 # duoshuo_username: kaijun
@@ -50,6 +52,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # Google Analytics
 ga_track_id: 'UA-85104645-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
+google_site_verification: 8XdyfnGMkzEeW3qzRzhQnJzld3IuO_v-JQlbEdcv57I
 
 
 # Sidebar settings
@@ -117,7 +120,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: DD/MM/YYYY
 time_format: HH:mm:ss
 
 # Pagination

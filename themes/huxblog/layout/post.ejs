@@ -25,8 +25,11 @@ layout: layout
                     <h1><%= page.title %></h1>
                     <h2 class="subheading"><%= page.subtitle || "" %></h2>
                     <span class="meta">
-                        Posted by <%- page.author || config.author %> on
+                        Escrito por <%- page.author || config.author %> el
                         <%= page.date.format(config.date_format) %>
+                    </span>
+                    <span class="meta">
+                        Tiempo de lectura: <%- readingTime(page.content, 'minutos') %>
                     </span>
                 </div>
             </div>
@@ -44,6 +47,8 @@ layout: layout
                 col-lg-8 col-lg-offset-2
                 col-md-10 col-md-offset-1
                 post-container">
+
+                
 
                 <%- page.content %>
 
