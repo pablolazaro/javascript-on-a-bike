@@ -61,7 +61,7 @@ un punto de transclusión definido, todo el contenido que se introduzca bajo la 
 ```
 
 Puedes ver un ejemplo en el siguiente **Plunker**:
-<iframe style="width: 100%; height: 600px" src="https://embed.plnkr.co/oHhXBzx2nALnyXJcQmBi?show=app,preview&deferRun" frameborder="0" allowfullscren="allowfullscren"></iframe>
+<iframe style="width: 100%; height: 600px" src="https://embed.plnkr.co/oHhXBzx2nALnyXJcQmBi?show=preview&deferRun" frameborder="0" allowfullscren="allowfullscren"></iframe>
 
 También es posible señalar varios puntos de transclusión, flexibilizando aún más los componentes que desarrollemos.
 Si te interesa saber más sobre la directiva `ngTransclude` en Angular 1 te recomiendo echar un vistazo a la [documentación oficial](https://docs.angularjs.org/api/ng/directive/ngTransclude).
@@ -247,4 +247,4 @@ ejemplo completo.
 
 ¡Hasta la próxima!
 
-<iframe style="width: 100%; height: 600px" src="https://embed.plnkr.co/E6suFuoN5nPFP0Ho6s6o?show=app,preview&deferRun" frameborder="0" allowfullscren="allowfullscren"></iframe>
+<iframe style="width: 100%; height: 600px" src="https://embed.plnkr.co/E6suFuoN5nPFP0Ho6s6o?show=preview&deferRun" frameborder="0" allowfullscren="allowfullscren"></iframe>
