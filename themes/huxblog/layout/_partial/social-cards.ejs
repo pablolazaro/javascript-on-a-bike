@@ -1,7 +1,6 @@
-<meta name="author" content="<%- page.author || config.author %>"/>
-<meta name="datePublished" content="<%= page.date %>"/>
 <meta name="headline" content="<%= page.description || config.description %>"/>
 <meta name="publisher" content="<%= config.title %>"/>
+<meta name="description" content="<%= page.description || config.description %>">
 <meta itemprop="name" content="<%= page.title || config.name %>">
 <meta itemprop="description" content="<%= page.description || config.description %>">
 
@@ -17,18 +16,19 @@
 <meta name="twitter:title" content="<%= page.title || config.title %>">
 
 <!-- Open Graph data -->
-
 <meta property="og:description" content="<%= page.description || config.description %>" />
 <meta property="og:image" content="http://i.imgur.com/XKXsutE.jpg" />
-<meta property="og:site_property" content="<%= config.title %>" />
+<meta property="og:image:type" content="image/jpg" />
+<meta property="og:locale" content="es_ES" />
+<meta property="og:site_name" content="<%= page.title || config.title %>" />
 <meta property="og:title" content="<%= page.title || config.title %>" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="<%= config.url %>" />
+<meta property="og:url" content="<%= config.url + config.root + (page.path||'').replace('index.html', '') %>" />
+<meta property="article:author" content="<%- page.author || config.author %>" />
+<meta property="article:section" content="Blog" />
 
 <% if (page.date) { %>
 <meta name="article:published_time" content="<%= page.date %>" />
 <meta name="article:modified_time" content="<%= page.date %>" />
 <% } %>
-<meta name="article:section" content="Blog" />
-<meta name="fb:admins" content="Facebook numberic ID" />
 
