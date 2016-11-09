@@ -10,7 +10,7 @@ date: 2016-10-23 12:57:20
 ---
 
 
-> Este artículo está actualizado a la version 2.1.0 de Angular 2
+> Este artículo está actualizado a la version 2.2.0 de Angular 2
 
 La transclusión o proyección de contenido es una técnica muy interesante que nos permite
 flexibilizar nuestros componentes permitiendo al consumidor de los mismos añadir elementos 

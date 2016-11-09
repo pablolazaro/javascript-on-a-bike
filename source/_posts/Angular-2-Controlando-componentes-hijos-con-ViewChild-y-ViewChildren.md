@@ -8,7 +8,7 @@ description: Aprende a controlar directivas y elementos que estén en el templat
 ---
 
 
-> Este artículo está actualizado a la version 2.1.0 de Angular 2
+> Este artículo está actualizado a la version 2.2.0 de Angular 2
 
 Una de las cosas que más me ha sorprendido de Angular 2 es la cantidad de 
 posibilidades que nos ofrece el framework para que los componentes
