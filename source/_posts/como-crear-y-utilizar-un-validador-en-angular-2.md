@@ -15,7 +15,7 @@ date: 2016-11-09 10:30:51
 {% img https://s-media-cache-ak0.pinimg.com/236x/15/1d/41/151d4189b0b48debd2cb32e0d9e2b0f7.jpg "Jon Snow, Software Developer" %}
 
 Este es Jon. Jon ha decidido dejar la espada y las guerras por los siete reinos
-para convertirse en el mejor developer de todo Westeros. Jon utiliza jQuery exclusivamente
+para convertirse en el mejor developer de todo Westeros. Jon utiliza exclusivamente **jQuery**
 para desarrollar aplicaciones web, así que vamos a mostrarle algunas de las caracteristicas
 de Angular 2 para mejorar su productividad y ayudarle a crear software más robusto. No sabes nada, Jon Nieve.
 
