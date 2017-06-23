@@ -10,7 +10,7 @@ date: 2016-11-09 10:30:51
 ---
 
 
-> Este artículo está actualizado a la version 2.2.0 de Angular 2
+> Este artículo está actualizado a la version ^4.0.0 de Angular 2
 
 {% img https://s-media-cache-ak0.pinimg.com/236x/15/1d/41/151d4189b0b48debd2cb32e0d9e2b0f7.jpg "Jon Snow, Software Developer" %}
 
