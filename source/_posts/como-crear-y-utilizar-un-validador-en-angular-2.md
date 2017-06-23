@@ -1,27 +1,27 @@
 ---
-title: Cómo crear y utilizar un validador en Angular 2
+title: Cómo crear y utilizar un validador en Angular
 tags:
-  - Angular 2
+  - Angular
   - Forms
 description: >-
   Aprende, junto a Jon Snow,  como crear y utilizar tus propios validadores en
-  Angular 2
+  Angular
 date: 2016-11-09 10:30:51
 ---
 
 
-> Este artículo está actualizado a la version ^4.0.0 de Angular 2
+> Este artículo está actualizado a la version ^4.0.0 de Angular
 
 {% img https://s-media-cache-ak0.pinimg.com/236x/15/1d/41/151d4189b0b48debd2cb32e0d9e2b0f7.jpg "Jon Snow, Software Developer" %}
 
 Este es Jon. Jon ha decidido dejar la espada y las guerras por los siete reinos
 para convertirse en el mejor developer de todo Westeros. Jon utiliza exclusivamente **jQuery**
 para desarrollar aplicaciones web, así que vamos a mostrarle algunas de las caracteristicas
-de Angular 2 para mejorar su productividad y ayudarle a crear software más robusto. No sabes nada, Jon Nieve.
+de Angular para mejorar su productividad y ayudarle a crear software más robusto. No sabes nada, Jon Nieve.
 
 {% img http://i.giphy.com/has1WKhoorwLS.gif "Sí, sí, cómo quieras Jon" %}
 
-Al igual que en la primera versión del framework Angular 2 incorporá el módulo `forms`
+Al igual que en la primera versión del framework Angular incorporá el módulo `forms`
 para manejar y validar, entre otras cosas, formularios. Este módulo proporciona las herramientas necesarias
 para crear y manejar la interacción del usuario con un formulario de una forma muy similar
 a la que se hiciese en Angular 1.
@@ -175,13 +175,13 @@ y [multi providers](http://blog.thoughtram.io/angular2/2015/11/23/multi-provider
 ### Afinando el selector
 
 Hasta ahora nuestra directiva aplica a todo elemento que tenga el atributo `stark`, pero esto no es muy eficiente
-dado que nuestra validación está muy ligada a un control de formulario que esté integrado dentro de un formulario de Angular 2,
+dado que nuestra validación está muy ligada a un control de formulario que esté integrado dentro de un formulario de Angular,
 es decir, un elemento que tenga la combinación de atributos `ngModel` y `name` en caso de formularios *template-drive* o los atributos
 `formControl` o `formControlName` en caso de formularios reactivos.
 
 Así que, ¿por qué no afinar el selector para que solo aplique a los elementos que realmente sean controles de formulario?.
 
-Las directivas en Angular 2 pueden tener multiples selectores (separados por comas) además de selectores que combinen varios atributos.
+Las directivas en Angular pueden tener multiples selectores (separados por comas) además de selectores que combinen varios atributos.
 Podemos, por ejemplo, aplicar la directiva solo a aquellos elementos que tengan el atributo `stark` y la directiva `ngModel` de esta manera:
 
 ```javascript
@@ -268,7 +268,7 @@ Si echas un vistazo al constructor de la clase [`FormControl`](https://angular.i
 * Listado de validadores síncronos
 * Listado de validadores asíncronos
 
-Angular 2 provee la clase [`Validators`](https://angular.io/docs/ts/latest/api/forms/index/Validators-class.html), la cual tiene una serie de métodos estáticos para aplicar las validaciones más comunes:
+Angular provee la clase [`Validators`](https://angular.io/docs/ts/latest/api/forms/index/Validators-class.html), la cual tiene una serie de métodos estáticos para aplicar las validaciones más comunes:
 `required`, `minLength`, `pattern`, `nullValidator`, etc. A la hora de crear un `FormControl` podemos pasar cualquiera de esos métodos estáticos
 como segundo argumento:
 

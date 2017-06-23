@@ -1,16 +1,16 @@
 ---
-title: Transclusión de contenido en Angular 2
+title: Transclusión de contenido en Angular
 tags:
-  - Angular 2
+  - Angular
   - Recetas
 description: >-
-  Aprende como proyectar contenido en Angular 2, ¡si has utilizado la
+  Aprende como proyectar contenido en Angular, ¡si has utilizado la
   transclusión en la primera versión del framework te será muy sencillo!
 date: 2016-10-23 12:57:20
 ---
 
 
-> Este artículo está actualizado a la version ^4.0.0 de Angular 2
+> Este artículo está actualizado a la version ^4.0.0 de Angular
 
 La transclusión o proyección de contenido es una técnica muy interesante que nos permite
 flexibilizar nuestros componentes permitiendo al consumidor de los mismos añadir elementos 
@@ -66,9 +66,9 @@ Puedes ver un ejemplo en el siguiente **Plunker**:
 También es posible señalar varios puntos de transclusión, flexibilizando aún más los componentes que desarrollemos.
 Si te interesa saber más sobre la directiva `ngTransclude` en Angular 1 te recomiendo echar un vistazo a la [documentación oficial](https://docs.angularjs.org/api/ng/directive/ngTransclude).
 
-Y mientras tanto, ¿qué te parece si echamos un vistazo a la transclusión en Angular 2?.
+Y mientras tanto, ¿qué te parece si echamos un vistazo a la transclusión en Angular?.
 
-# Proyección de contenido en Angular 2
+# Proyección de contenido en Angular
 
 Hasta ahora hemos hablado del termino **transclusión**, que era el utilizado en la primera versión del framework.
 Con la nueva versión de Angular este termino ha cambiado para pasar a llamarse **proyección de contenido** (o *content projection*), aunque en esencia,
@@ -79,7 +79,7 @@ el concepto es el mismo.
 La proyección se realiza mediante un proceso muy similar al que utilizabamos en Angular 1 aunque en este caso solo necesitamos utilizar
 la etiqueta `<ng-content>` para marcar el punto de proyección.
 
-Reescribir el componente `Card` en Angular 2 sería algo así: 
+Reescribir el componente `Card` en Angular sería algo así: 
 
 ```javascript
 @Component({
@@ -241,7 +241,7 @@ Por último, en la aplicación vamos a utilizar el nuevo componente `card-title`
 export class App { }
 ```
 
-¡Y esto es todo! La proyección de contenido en Angular 2 es tan sencilla como la transclusión
+¡Y esto es todo! La proyección de contenido en Angular es tan sencilla como la transclusión
 en la primera versión del framework. Para finalizar, en el siguiente **Plunker** puedes ver el
 ejemplo completo.
 

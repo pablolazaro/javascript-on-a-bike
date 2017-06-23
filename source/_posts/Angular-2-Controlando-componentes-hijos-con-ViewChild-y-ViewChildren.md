@@ -1,16 +1,16 @@
 ---
-title: Angular 2 - Controlando componentes hijos con ViewChild y ViewChildren
+title: Angular - Controlando componentes hijos con ViewChild y ViewChildren
 tags:
-  - Angular 2
+  - Angular
   - Recetas
 date: 2016-10-13 21:18:52
 description: Aprende a controlar directivas y elementos que estén en el template de tus componentes usando @ViewChild y @ViewChildren.
 ---
 
 
-> Este artículo está actualizado a la version ^4.0.0 de Angular 2
+> Este artículo está actualizado a la version ^4.0.0 de Angular
 
-Una de las cosas que más me ha sorprendido de Angular 2 es la cantidad de 
+Una de las cosas que más me ha sorprendido de Angular es la cantidad de 
 posibilidades que nos ofrece el framework para que los componentes
 [se comuniquen entre si](https://angular.io/docs/ts/latest/cookbook/component-communication.html).
 

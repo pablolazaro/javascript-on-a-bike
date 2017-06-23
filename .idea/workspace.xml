@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a0f8719-bbac-4439-acf2-0089164a38fc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren.md" afterPath="$PROJECT_DIR$/source/_posts/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/como-crear-y-utilizar-un-validador-en-angular-2.md" afterPath="$PROJECT_DIR$/source/_posts/como-crear-y-utilizar-un-validador-en-angular-2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/transclusion-en-angular-2.md" afterPath="$PROJECT_DIR$/source/_posts/transclusion-en-angular-2.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,25 +17,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
               <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -56,13 +40,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="como-crear-y-utilizar-un-validador-en-angular-2.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="como-crear-y-utilizar-un-validador-en-angular-2.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/como-crear-y-utilizar-un-validador-en-angular-2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="250">
+                <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="58" />
+                <folding>
+                  <marker date="1498215680000" expanded="true" signature="4081:4106" ph="{&quot;selector&quot;: '[stark]'...}" />
+                  <marker date="1498215680000" expanded="true" signature="4141:4144" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="4886:4911" ph="{&quot;selector&quot;: '[stark]'...}" />
+                  <marker date="1498215680000" expanded="true" signature="4967:5585" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="5021:5156" ph="[...]" />
+                  <marker date="1498215680000" expanded="true" signature="5218:5440" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="5318:5404" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="5410:5436" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="5494:5583" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="6117:6196" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+                  <marker date="1498215680000" expanded="true" signature="6228:6294" ph="{&quot;selector&quot;: '[stark]'...}" />
+                  <marker date="1498215680000" expanded="true" signature="6350:6359" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="8226:8260" ph="{&quot;selector&quot;: '[stark][ngModel]'...}" />
+                  <marker date="1498215680000" expanded="true" signature="8426:8506" ph="{&quot;selector&quot;: '[stark][ngModel],[stark][formControl],[stark][formControlName]'...}" />
+                  <marker date="1498215680000" expanded="true" signature="8690:8769" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+                  <marker date="1498215680000" expanded="true" signature="8801:8866" ph="{&quot;selector&quot;: '[stark]'...}" />
+                  <marker date="1498215680000" expanded="true" signature="8922:9541" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="8976:9111" ph="[...]" />
+                  <marker date="1498215680000" expanded="true" signature="9174:9396" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="9274:9360" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="9366:9392" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="9450:9539" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="17098:17854" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="17262:17331" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="17349:17554" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="17597:17783" ph="{...}" />
+                  <marker date="1498215680000" expanded="true" signature="17912:17980" ph="{...}" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -84,16 +96,21 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Angular 2</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_posts/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren.md" />
         <option value="$PROJECT_DIR$/source/_posts/como-crear-y-utilizar-un-validador-en-angular-2.md" />
         <option value="$PROJECT_DIR$/source/_posts/transclusion-en-angular-2.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/source/_posts/Angular-2-Controlando-componentes-hijos-con-ViewChild-y-ViewChildren.md" />
       </list>
     </option>
   </component>
@@ -136,6 +153,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javascript-on-a-bike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-on-a-bike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-on-a-bike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-on-a-bike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript-on-a-bike" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -242,12 +291,12 @@
       <option name="presentableId" value="Default" />
       <updated>1498214770968</updated>
       <workItem from="1498214772092" duration="1091000" />
-      <workItem from="1498215893188" duration="210000" />
+      <workItem from="1498215893188" duration="341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1301000" />
+    <option name="totallyTimeSpent" value="1432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -295,7 +344,12 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <marker date="1498216244000" expanded="true" signature="1015:1150" ph="{&quot;selector&quot;: 'system-message'...}" />
+              <marker date="1498216244000" expanded="true" signature="1188:1334" ph="{...}" />
+              <marker date="1498216244000" expanded="true" signature="1257:1286" ph="{...}" />
+              <marker date="1498216244000" expanded="true" signature="1298:1328" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -317,7 +371,35 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+            <folding>
+              <marker date="1498215680000" expanded="true" signature="4081:4106" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="4141:4144" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="4886:4911" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="4967:5585" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5021:5156" ph="[...]" />
+              <marker date="1498215680000" expanded="true" signature="5218:5440" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5318:5404" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5410:5436" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5494:5583" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="6117:6196" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+              <marker date="1498215680000" expanded="true" signature="6228:6294" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="6350:6359" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="8226:8260" ph="{&quot;selector&quot;: '[stark][ngModel]'...}" />
+              <marker date="1498215680000" expanded="true" signature="8426:8506" ph="{&quot;selector&quot;: '[stark][ngModel],[stark][formControl],[stark][formControlName]'...}" />
+              <marker date="1498215680000" expanded="true" signature="8690:8769" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+              <marker date="1498215680000" expanded="true" signature="8801:8866" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="8922:9541" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="8976:9111" ph="[...]" />
+              <marker date="1498215680000" expanded="true" signature="9174:9396" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="9274:9360" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="9366:9392" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="9450:9539" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17098:17854" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17262:17331" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17349:17554" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17597:17783" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17912:17980" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -338,23 +420,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/como-crear-y-utilizar-un-validador-en-angular-2.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -389,14 +454,24 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="52" />
-          <folding />
+          <folding>
+            <marker date="1498216244000" expanded="true" signature="1015:1150" ph="{&quot;selector&quot;: 'system-message'...}" />
+            <marker date="1498216244000" expanded="true" signature="1188:1334" ph="{...}" />
+            <marker date="1498216244000" expanded="true" signature="1257:1286" ph="{...}" />
+            <marker date="1498216244000" expanded="true" signature="1298:1328" ph="{...}" />
+          </folding>
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="-2471">
+            <caret line="12" column="53" lean-forward="true" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
+            <folding>
+              <marker date="1498216244000" expanded="true" signature="1015:1150" ph="{&quot;selector&quot;: 'system-message'...}" />
+              <marker date="1498216244000" expanded="true" signature="1188:1334" ph="{...}" />
+              <marker date="1498216244000" expanded="true" signature="1257:1286" ph="{...}" />
+              <marker date="1498216244000" expanded="true" signature="1298:1328" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -407,6 +482,79 @@
         <state relative-caret-position="368">
           <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/como-crear-y-utilizar-un-validador-en-angular-2.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="52" lean-forward="false" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+          <folding>
+            <marker date="1498215680000" expanded="true" signature="4081:4106" ph="{&quot;selector&quot;: '[stark]'...}" />
+            <marker date="1498215680000" expanded="true" signature="4141:4144" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="4886:4911" ph="{&quot;selector&quot;: '[stark]'...}" />
+            <marker date="1498215680000" expanded="true" signature="4967:5585" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="5021:5156" ph="[...]" />
+            <marker date="1498215680000" expanded="true" signature="5218:5440" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="5318:5404" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="5410:5436" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="5494:5583" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="6117:6196" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+            <marker date="1498215680000" expanded="true" signature="6228:6294" ph="{&quot;selector&quot;: '[stark]'...}" />
+            <marker date="1498215680000" expanded="true" signature="6350:6359" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="8226:8260" ph="{&quot;selector&quot;: '[stark][ngModel]'...}" />
+            <marker date="1498215680000" expanded="true" signature="8426:8506" ph="{&quot;selector&quot;: '[stark][ngModel],[stark][formControl],[stark][formControlName]'...}" />
+            <marker date="1498215680000" expanded="true" signature="8690:8769" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+            <marker date="1498215680000" expanded="true" signature="8801:8866" ph="{&quot;selector&quot;: '[stark]'...}" />
+            <marker date="1498215680000" expanded="true" signature="8922:9541" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="8976:9111" ph="[...]" />
+            <marker date="1498215680000" expanded="true" signature="9174:9396" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="9274:9360" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="9366:9392" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="9450:9539" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="17098:17854" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="17262:17331" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="17349:17554" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="17597:17783" ph="{...}" />
+            <marker date="1498215680000" expanded="true" signature="17912:17980" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="250">
+            <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="58" />
+            <folding>
+              <marker date="1498215680000" expanded="true" signature="4081:4106" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="4141:4144" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="4886:4911" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="4967:5585" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5021:5156" ph="[...]" />
+              <marker date="1498215680000" expanded="true" signature="5218:5440" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5318:5404" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5410:5436" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="5494:5583" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="6117:6196" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+              <marker date="1498215680000" expanded="true" signature="6228:6294" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="6350:6359" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="8226:8260" ph="{&quot;selector&quot;: '[stark][ngModel]'...}" />
+              <marker date="1498215680000" expanded="true" signature="8426:8506" ph="{&quot;selector&quot;: '[stark][ngModel],[stark][formControl],[stark][formControlName]'...}" />
+              <marker date="1498215680000" expanded="true" signature="8690:8769" ph="{&quot;provide&quot;: NG_VALIDATORS...}" />
+              <marker date="1498215680000" expanded="true" signature="8801:8866" ph="{&quot;selector&quot;: '[stark]'...}" />
+              <marker date="1498215680000" expanded="true" signature="8922:9541" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="8976:9111" ph="[...]" />
+              <marker date="1498215680000" expanded="true" signature="9174:9396" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="9274:9360" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="9366:9392" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="9450:9539" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17098:17854" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17262:17331" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17349:17554" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17597:17783" ph="{...}" />
+              <marker date="1498215680000" expanded="true" signature="17912:17980" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
